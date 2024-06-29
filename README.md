@@ -15,6 +15,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-##Description
+## Description
 This app is used to create podcasts using ai to generate sound from text.
 It also alows users to generate thumbnails using ai.
